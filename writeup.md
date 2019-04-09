@@ -161,6 +161,11 @@ The trained model was loaded for inference in the simulator with the `python dri
 |:--------:|:------------:|
 |![alt text][image10] | ![alt text][image11] |
 
+The videos of recorded while the car was in autonomous mode are the following:
+
+* [Track 1](./videos/track1.mp4)
+* [Track 2](./videos/track2.mp4)
+
 ### Discussion
 
 #### 1. Summary
